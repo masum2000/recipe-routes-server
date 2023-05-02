@@ -30,13 +30,13 @@ app.get('/recipe/:id', (req, res) => {
 })
 
 
-// app.get('/chefs/:id', (req, res) => {
-//     const id = parseInt(req.params.id);
-//     // console.log(id);
-//     const chefRecipe = recipe.filter(n => parseInt(n.chef_id) === id);
-//     res.send(chefRecipe)
+app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    // console.log(id);
+    const chefRecipe = recipe.filter(n => parseInt(n.chef_id) === id);
+    res.send(chefRecipe)
 
-// })
+})
 
 app.listen(port, () => {
     console.log(`Recipe API is running on port ${port}`)
