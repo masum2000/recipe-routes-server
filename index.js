@@ -22,12 +22,12 @@ app.get('/recipe', (req, res) => {
     res.send(recipe)
 })
 
-// app.get('/recipe/:id', (req, res) => {
-//     const id = req.params.id;
-//     // console.log(id);
-//     const selectedRecipe = recipe.find(n => n._id === id);
-//     res.send(selectedRecipe)
-// })
+app.get('/recipe/:id', (req, res) => {
+    const id = req.params.id;
+    // console.log(id);
+    const selectedRecipe = recipe.find(n => n._id === id);
+    res.send(selectedRecipe)
+})
 
 
 // app.get('/chefs/:id', (req, res) => {
