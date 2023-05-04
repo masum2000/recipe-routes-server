@@ -8,17 +8,17 @@
       "number_of_recipes": 500,
       "likes": 25000,
       "chef_bio": "Nazrul Islam is a Bangladeshi chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef Bangladesh. He has been awarded the Michelin star for his restaurant, Junoon, in New York City.",
-      "recipe_name": "Butter Chicken",
-      "pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
-      "ingredients": "chicken,tomato puree,cream,butter,garam masala",
-      "cooking_method": "Cook marinated chicken, then simmer in tomato puree, spices, and cream.",
+      "recipe_name": "Shorshe Ilish (Hilsa Fish with Mustard Curry)",
+      "pic": "https://i.ibb.co/Pttpcs7/10001.jpg",
+      "ingredients": "500 gm washed & dried,sliced hilsa fish,garam masala",
+      "cooking_method": "Cook marinated hilsa fish, then simmer in potato and spices with curry.",
       "rating": 4.8
     },
     {
       "_id": "919db97c34e0778b387dd40cdfa08130",
       "chef_id": "1",
-      "recipe_name": "Dal Makhani",
-      "pic": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/01/dal-makhani-recipe-1-500x375.jpg",
+      "recipe_name": "Kacchi Biriyani (Mutton Biriyani)",
+      "pic": "https://i.ibb.co/kMhpgdV/10002.jpg",
       "ingredients": "black lentils, kidney beans, tomato puree, cream, garam masala",
       "cooking_method": "Cook lentils and beans, then simmer in tomato puree and spices, finish with cream.",
       "rating": 4.7
@@ -75,7 +75,7 @@
       "chef_bio": "Kabir Ahmed is a Bangladeshi-born actress, food and travel writer, and television personality. He is known for her contributions to Bangladesh cuisine and his cookbooks, such as 'An Invitation to Bangladeshi Cooking' and 'Kabir Ahmed's Ultimate Curry Bible'.",
       "recipe_name": "Rogan Josh",
       "pic": "https://www.recipetineats.com/wp-content/uploads/2020/02/Rogan-Josh_5.jpg",
-  "ingredients": "lamb, onion, tomato, yogurt, kashmiri red chili powder",
+      "ingredients": "lamb, onion, tomato, yogurt, kashmiri red chili powder",
       "cooking_method": "Cook lamb in onion-tomato masala, then simmer in yogurt and spices.",
       "rating": 4.7
     },
@@ -157,7 +157,7 @@
     {
       "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
       "chef_id": "5",
-  "recipe_name": "Masoor Dal",
+       "recipe_name": "Masoor Dal",
       "pic": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/09/Instant-Pot-Whole-Masoor-Dal-Recipe.jpg",
       "ingredients": "red lentils, onion, tomato, turmeric, cumin seeds",
       "cooking_method": "Cook red lentils, then temper with cumin seeds, onion, tomato, and spices.",

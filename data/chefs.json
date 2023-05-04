@@ -5,7 +5,32 @@
       "name": "Nazrul Islam",
       "yearsOfExperience": 20,
       "numberOfRecipes": 500,
-      "likes": "25k"
+      "likes": "25k",
+      "chef_bio": "Nazrul Islam is a Bangladeshi chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef Bangladesh. He has been awarded the Michelin star for his restaurant, Junoon, in New York City.",
+      "recipe_details":[
+        {
+           "recipe_name": "Shorshe Ilish (Hilsa Fish with Mustard Curry)",
+           "pic": "https://i.ibb.co/Pttpcs7/10001.jpg",
+           "ingredients": "500 gm washed & dried,sliced hilsa fish,garam masala",
+           "cooking_method": "Cook marinated hilsa fish, then simmer in potato and spices with curry.",
+           "rating": 4.8
+        },
+        {
+            "recipe_name": "Kacchi Biriyani (Mutton Biriyani)",
+            "pic": "https://i.ibb.co/kMhpgdV/10002.jpg",
+            "ingredients": "chicken, mutton, or beef, a mixture of whole spices, mint leaves, coriander leaves, fried onions, and yogurt",
+            "cooking_method": "Kacchi Biriyani is a traditional Bangladeshi dish made by layering raw marinated mutton with partially cooked basmati rice, and slow-cooking in a sealed pot over low heat.",
+            "rating": 4.7
+        },
+        {
+            "recipe_name": "Beef Kala Bhuna (Beef Curry)",
+            "pic": "https://i.ibb.co/6RwnWQX/photo.jpg",
+            "ingredients": "beef, onion, garlic, ginger, green chili, turmeric, cumin powder, coriander powder, salt, mustard oil, and water. ",
+            "cooking_method": "Clean and wash the Kalabuna fish thoroughly.Cut the fish into pieces and set aside.Heat mustard oil in a pan and fry the fish pieces until golden brown. Remove from pan and set aside.",
+            "rating": 4.6
+        }
+      ]
+      
     },
     {   
        "id": "2",
@@ -13,7 +38,31 @@
       "name": "Khairun Nessa",
       "yearsOfExperience": 30,
       "numberOfRecipes": 1000,
-      "likes": "50k"
+      "likes": "50k",
+      "chef_bio": "Khairun Nessa is a Bangladeshi  celebrity chef, entrepreneur, and television personality. She is best known for her cooking show, Khana Khazana, which is the longest running show of its kind in Asia.",
+      "recipe_details":[
+        {
+            "recipe_name": "Bhuna Khichuri with Dim Bhaji (Yellow Rice with Omelette)",
+            "pic": "https://i.ibb.co/5km13ST/10003.jpg",
+           "ingredients": "Basmati rice,Yellow lentils (mung dal),Onion,Garlic,Ginger,Cumin seeds,Bay leaves",
+           "cooking_method": "Bhuna Khichuri with Dim Bhaji is a popular Bengali comfort food. It is made by cooking yellow rice and lentils together with spices, then topping it with a fluffy omelette made with eggs, onion, and green chili.",
+           "rating": 4.8
+        },
+        {
+            "recipe_name": "Sheek Kebab with Naan (Kebab with Flatbread)",
+            "pic": "https://i.ibb.co/SPMzm6m/10004.jpg",
+            "ingredients": "500g minced lamb, medium-sized onion, 1 finely chopped,2 garlic cloves, finely chopped,2 green chilies, finely chopped,1 tablespoon ginger paste",
+            "cooking_method": "Sheek Kebab with Naan is a popular dish made by marinating minced meat with spices and grilling on skewers. It is served with naan bread.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Biryani",
+            "pic": "https://i.ibb.co/kMhpgdV/10002.jpg",
+            "ingredients": "basmati rice, chicken, onion, yogurt, biryani masala",
+            "cooking_method": "Cook marinated chicken and rice separately, then layer and cook together.",
+            "rating": 4.9
+        }
+      ]
     },
     {  
 
@@ -22,7 +71,31 @@
       "name": "Kabir Ahmed",
       "yearsOfExperience": 40,
       "numberOfRecipes": 700,
-      "likes": "30k"
+      "likes": "30k",
+      "chef_bio": "Kabir Ahmed is a Bangladeshi-born actress, food and travel writer, and television personality. He is known for her contributions to Bangladesh cuisine and his cookbooks, such as 'An Invitation to Bangladeshi Cooking' and 'Kabir Ahmed's Ultimate Curry Bible'.",
+      "recipe_details":[
+        {
+            "recipe_name": "Dal (Lentil Soup)",
+            "pic": "https://i.ibb.co/j8dzbNF/10005.jpg",
+           "ingredients": "Lentils (any variety, such as red, brown, or green),Water or broth (vegetable or chicken),Onion,Garlic,Ginger,Tomatoes (fresh or canned)",
+           "cooking_method": "To make Dal (Lentil Soup), boil lentils with water and salt, then add sautéed onion, garlic, ginger, and spices like cumin and turmeric. Simmer until lentils are fully cooked, then add a tempering of fried spices, herbs, and sometimes tomato for added flavor.",
+           "rating": 4.7
+        },
+        {
+            "recipe_name": "Bhorta (Mashed Vegetables with Spices)",
+           "pic": "https://i.ibb.co/6sR35Hh/10006.webp",
+           "ingredients": "eggplant, onion, tomato, ginger, garam masala",
+           "cooking_method": "Roast eggplant, then cook with onion, tomato, and spices.",
+           "rating": 4.6
+        },
+        {
+            "recipe_name": "Fuchka",
+            "pic": "https://i.ibb.co/nPY8mty/10007.webp",
+            "ingredients": "Semolina (suji),All-purpose flour (maida),Baking powder,Salt,Water,Chickpeas (chhola) or boiled potatoes (aaloo),Onion",
+            "cooking_method": "Fuchka is a popular street food in Bangladesh. The crispy shell is filled with a mixture of mashed potato, chickpeas, spices, and tamarind water. The fuchka shells are made from a mixture of flour and semolina that is rolled out, cut into circles, and then deep-fried. ",
+            "rating": 4.8
+        }
+      ]
     },
     {   
 
@@ -31,7 +104,31 @@
       "name": "Nargis Begum",
       "yearsOfExperience": 15,
       "numberOfRecipes": 300,
-      "likes": "20k"
+      "likes": "20k",
+      "chef_bio": "Nargis Begum is a Bangladeshi celebrity chef, restaurateur, and television personality. She has hosted several cooking shows, including 'The Great Bangladeshi Rasoi', 'Breakfast Xpress', and 'Snack Attack'.",
+      "recipe_details":[
+        {
+            "recipe_name": "Haleem (Mixed Lentil Soup and Meat)",
+            "pic": "https://i.ibb.co/G53w646/10009.webp",
+            "ingredients": "Lamb, beef, or chicken,Whole wheat or barley,Chana dal (split chickpeas),Moong dal (split mung beans),Masoor dal (red lentils),Spices (such as cumin, coriander, turmeric, and garam masala)",
+            "cooking_method": "Haleem is a slow-cooked stew made with meat, lentils, wheat, and spices. The ingredients are cooked together for several hours until they form a thick, porridge-like consistency.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Bhapa Pitha (Rice Cake)",
+            "pic": "https://i.ibb.co/VHdJmHv/10013.webp",
+            "ingredients": "Rice flour,Grated coconut,Jaggery (or sugar),Cardamom powder,Salt,Water",
+            "cooking_method": "To make Dal (Lentil Soup), boil lentils with water and salt, then add sautéed onion, garlic, ginger, and spices like cumin and turmeric. Simmer until lentils are fully cooked, then add a tempering of fried spices, herbs, and sometimes tomato for added flavor.",
+            "rating": 4.6
+        },
+        {
+            "recipe_name": "Shorshe Ilish (Hilsa Fish with Mustard Curry)",
+           "pic": "https://i.ibb.co/Pttpcs7/10001.jpg",
+           "ingredients": "500 gm washed & dried,sliced hilsa fish,garam masala",
+           "cooking_method": "Cook marinated hilsa fish, then simmer in potato and spices with curry.",
+            "rating": 4.7
+        }
+      ]
     },
     {
 
@@ -40,7 +137,31 @@
       "name": "Abdul Halim",
       "yearsOfExperience": 10,
       "numberOfRecipes": 200,
-      "likes": "15k"
+      "likes": "15k",
+      "chef_bio": "Abdul Halim is a renowned Bangladeshi chef with over 20 years of experience in the culinary world. He is known for his expertise in traditional Bangladeshi cuisine and has been a key figure in promoting the country's food culture both locally and internationally. His passion for cooking has earned him numerous accolades and he continues to inspire young chefs with his knowledge and skills.",
+      "recipe_details":[
+        {
+            "recipe_name": "Beef Kala Bhuna (Beef Curry)",
+            "pic": "https://i.ibb.co/6RwnWQX/photo.jpg",
+            "ingredients": "beef, onion, garlic, ginger, green chili, turmeric, cumin powder, coriander powder, salt, mustard oil, and water. ",
+            "cooking_method": "Clean and wash the Kalabuna fish thoroughly.Cut the fish into pieces and set aside.Heat mustard oil in a pan and fry the fish pieces until golden brown. Remove from pan and set aside.",
+            "rating": 4.8
+        },
+        {
+            "recipe_name": "Bhuna Khichuri with Dim Bhaji (Yellow Rice with Omelette)",
+            "pic": "https://i.ibb.co/5km13ST/10003.jpg",
+           "ingredients": "Basmati rice,Yellow lentils (mung dal),Onion,Garlic,Ginger,Cumin seeds,Bay leaves",
+           "cooking_method": "Bhuna Khichuri with Dim Bhaji is a popular Bengali comfort food. It is made by cooking yellow rice and lentils together with spices, then topping it with a fluffy omelette made with eggs, onion, and green chili.",
+            "rating": 4.7
+        },
+        {
+            "recipe_name": "Bhapa Pitha (Rice Cake)",
+            "pic": "https://i.ibb.co/VHdJmHv/10013.webp",
+            "ingredients": "Rice flour,Grated coconut,Jaggery (or sugar),Cardamom powder,Salt,Water",
+            "cooking_method": "To make Dal (Lentil Soup), boil lentils with water and salt, then add sautéed onion, garlic, ginger, and spices like cumin and turmeric. Simmer until lentils are fully cooked, then add a tempering of fried spices, herbs, and sometimes tomato for added flavor.",
+           "rating": 4.5
+        }
+      ]
     },
     {   
 
@@ -49,6 +170,30 @@
       "name": "Keka Akhter",
       "yearsOfExperience": 20,
       "numberOfRecipes": 150,
-      "likes": "40k"
+      "likes": "40k",
+      "chef_bio": "Keka Akhter is a Bangladeshi celebrity chef and owner of the restaurant, Gaggan, in Bangkok, Thailand. Her restaurant has been named the best in Asia several times and She has been awarded two Michelin stars.",
+      "recipe_details":[
+        {
+            "recipe_name": "Haleem (Mixed Lentil Soup and Meat)",
+            "pic": "https://i.ibb.co/G53w646/10009.webp",
+            "ingredients": "Lamb, beef, or chicken,Whole wheat or barley,Chana dal (split chickpeas),Moong dal (split mung beans),Masoor dal (red lentils),Spices (such as cumin, coriander, turmeric, and garam masala)",
+            "cooking_method": "Haleem is a slow-cooked stew made with meat, lentils, wheat, and spices. The ingredients are cooked together for several hours until they form a thick, porridge-like consistency.",
+           "rating": 4.9
+        },
+        {
+            "recipe_name": "Fuchka",
+            "pic": "https://i.ibb.co/nPY8mty/10007.webp",
+            "ingredients": "Semolina (suji),All-purpose flour (maida),Baking powder,Salt,Water,Chickpeas (chhola) or boiled potatoes (aaloo),Onion",
+            "cooking_method": "Fuchka is a popular street food in Bangladesh. The crispy shell is filled with a mixture of mashed potato, chickpeas, spices, and tamarind water. The fuchka shells are made from a mixture of flour and semolina that is rolled out, cut into circles, and then deep-fried. ",
+           "rating": 4.7
+        },
+        {
+            "recipe_name": "Dal (Lentil Soup)",
+            "pic": "https://i.ibb.co/j8dzbNF/10005.jpg",
+           "ingredients": "Lentils (any variety, such as red, brown, or green),Water or broth (vegetable or chicken),Onion,Garlic,Ginger,Tomatoes (fresh or canned)",
+           "cooking_method": "To make Dal (Lentil Soup), boil lentils with water and salt, then add sautéed onion, garlic, ginger, and spices like cumin and turmeric. Simmer until lentils are fully cooked, then add a tempering of fried spices, herbs, and sometimes tomato for added flavor.",
+           "rating": 4.6
+        }
+      ]
     }
   ]
