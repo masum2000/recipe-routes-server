@@ -5,7 +5,7 @@
       "name": "Nazrul Islam",
       "yearsOfExperience": 20,
       "numberOfRecipes": 500,
-      "likes": 25000
+      "likes": "25k"
     },
     {   
        "id": "2",
@@ -13,7 +13,7 @@
       "name": "Khairun Nessa",
       "yearsOfExperience": 30,
       "numberOfRecipes": 1000,
-      "likes": 50000
+      "likes": "50k"
     },
     {  
 
@@ -22,7 +22,7 @@
       "name": "Kabir Ahmed",
       "yearsOfExperience": 40,
       "numberOfRecipes": 700,
-      "likes": 30000
+      "likes": "30k"
     },
     {   
 
@@ -31,7 +31,7 @@
       "name": "Nargis Begum",
       "yearsOfExperience": 15,
       "numberOfRecipes": 300,
-      "likes": 20000
+      "likes": "20k"
     },
     {
 
@@ -40,7 +40,7 @@
       "name": "Abdul Halim",
       "yearsOfExperience": 10,
       "numberOfRecipes": 200,
-      "likes": 15000
+      "likes": "15k"
     },
     {   
 
@@ -49,6 +49,6 @@
       "name": "Keka Akhter",
       "yearsOfExperience": 20,
       "numberOfRecipes": 150,
-      "likes": 40000
+      "likes": "40k"
     }
   ]
